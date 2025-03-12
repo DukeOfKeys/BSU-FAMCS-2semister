@@ -1,0 +1,6 @@
+2025-02-23 13:38:28 Info: Duplicate letter: 'l' (../../main.cpp:123, virtual void findDoubleLetters::exec())
+2025-02-23 13:38:28 Info: "hello how are you?" (../../main.cpp:21, void sentenceWithoutHello::getD())
+2025-02-23 13:38:28 Info: Result words: (../../main.cpp:37, virtual void sentenceWithoutHello::exec())
+2025-02-23 13:38:28 Info: "how" (../../main.cpp:39, virtual void sentenceWithoutHello::exec())
+2025-02-23 13:38:28 Info: "are" (../../main.cpp:39, virtual void sentenceWithoutHello::exec())
+2025-02-23 13:38:28 Info: "you?" (../../main.cpp:39, virtual void sentenceWithoutHello::exec())
